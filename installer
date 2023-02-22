@@ -24,7 +24,7 @@ chmod +x /bin/xdrtool
 echo Start > /www/xderm/log/st
  fi
 echo -e "user=admin\npasswd=xderm" > /root/auth.txt
-echo -e "xderm-mini GUI terinstall.\n\nSilahkan Akses 'http://192.168.1.1/xderm'"
+echo -e "xderm-mini GUI terinstall.\n\nSilahkan Akses 'http://192.168.88.234/xderm'"
 echo -e "Default Authentication\nUsername: admin\nPassword: xderm\n"
 echo -e "Untuk mengganti User dan Password, silahkan edit /root/auth.txt"
 echo -e "Atau jalankan command terminal xdrauth untuk mengubahnya"
